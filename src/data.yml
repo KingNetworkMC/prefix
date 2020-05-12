@@ -1,0 +1,6 @@
+prefixs:
+  alexeylesin:
+    cut: "&f[&cAdmin&f] "
+    on: ""
+    saves:
+     - '&f[&9Moder&f] '

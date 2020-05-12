@@ -1,0 +1,5 @@
+name: KingPrefix
+main: ru.alexeylesin.kingprefix.Main
+version: 1.0
+commands:
+  prefix:
